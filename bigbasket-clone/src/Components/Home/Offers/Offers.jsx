@@ -55,25 +55,25 @@ export const Offers = () => {
       <div className="payment">
         <div className="paymentin">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/a9814177-3e30-4d30-bba6-cc690da0c6a5/May_Affiliates_Citi_480x360-290422.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/c180fc98-bbcd-4dba-9bad-65fc5dca26e6/t1_hp_aff_m_hsbc_360_160123.jpg"
             alt=""
           />
         </div>
         <div className="paymentin">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/a9814177-3e30-4d30-bba6-cc690da0c6a5/May_Affiliates_PaytmWallet_480x360-290422.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/c180fc98-bbcd-4dba-9bad-65fc5dca26e6/t1_hp_aff_m_onecard_360_060123.jpg"
             alt=""
           />
         </div>
         <div className="paymentin">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/a9814177-3e30-4d30-bba6-cc690da0c6a5/May_Affiliates_RBL%20Bank_480x360-290422.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/c180fc98-bbcd-4dba-9bad-65fc5dca26e6/t1_hp_aff_m_paytm-wallet_360_160123.jpg"
             alt=""
           />
         </div>
         <div className="paymentin">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/a9814177-3e30-4d30-bba6-cc690da0c6a5/May_Affiliates_DigiBank_480x360-290422.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/c180fc98-bbcd-4dba-9bad-65fc5dca26e6/t1_hp_aff_m_icici-150_360_060123.jpg"
             alt=""
           />
         </div>
@@ -347,37 +347,37 @@ export const Offers = () => {
       <div className="sixelements">
         <div className="sixbox">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/fa7ad295-04e1-4af9-9f88-7d1dd9e7ddd2/hp_GMStorefront_m_250422_01.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/9db9e4db-b1e2-4da0-816f-c6ed9c080442/hp_min25-GMStorefront(Till10th)_m_251222_01.jpg"
             alt=""
           />
         </div>
         <div className="sixbox">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/fa7ad295-04e1-4af9-9f88-7d1dd9e7ddd2/hp_GMStorefront_m_250422_02.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/9db9e4db-b1e2-4da0-816f-c6ed9c080442/hp_min50-off-GMStorefront(Till10th)_m_251222_02.jpg"
             alt=""
           />
         </div>
         <div className="sixbox">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/fa7ad295-04e1-4af9-9f88-7d1dd9e7ddd2/hp_GMStorefront_m_250422_03.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/9db9e4db-b1e2-4da0-816f-c6ed9c080442/hp_steel-coppers-GMStorefront(Till10th)_m_251222_03.jpg"
             alt=""
           />
         </div>
         <div className="sixbox">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/fa7ad295-04e1-4af9-9f88-7d1dd9e7ddd2/hp_GMStorefront_m_250422_04.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/9db9e4db-b1e2-4da0-816f-c6ed9c080442/hp_kitchen-tools-GMStorefront(Till10th)_m_251222_04.jpg"
             alt=""
           />
         </div>
         <div className="sixbox">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/fa7ad295-04e1-4af9-9f88-7d1dd9e7ddd2/hp_GMStorefront_m_250422_05.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/9db9e4db-b1e2-4da0-816f-c6ed9c080442/hp_casseroles-GMStorefront(Till10th)_m_251222_05.jpg"
             alt=""
           />
         </div>
         <div className="sixbox">
           <img
-            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/17dda928-88f2-4c85-8f48-ebeaf9e915b6/fa7ad295-04e1-4af9-9f88-7d1dd9e7ddd2/hp_GMStorefront_m_250422_06.jpg"
+            src="https://www.bigbasket.com/media/customPage/77880b23-0233-4fad-b54a-a93c998e0d20/7b298a48-7c3d-4120-a032-4d45c2a89673/9db9e4db-b1e2-4da0-816f-c6ed9c080442/hp_bathroom-GMStorefront(Till10th)_m_251222_06.jpg"
             alt=""
           />
         </div>
